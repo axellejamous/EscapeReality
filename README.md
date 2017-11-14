@@ -3,4 +3,6 @@
 
 ### >In Development<
 
-AP Valley for AP University College in Antwerp, Belgium
+
+How to use
+1. Install SteamVR Plugin from Asset store (Unity)
