@@ -1,7 +1,7 @@
 # Escape Reality
 ## A Virtual Escape Room with Hardware elements
 
-### >In Development<
+### Currently in development
 
 
 How to use
