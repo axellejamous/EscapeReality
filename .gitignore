@@ -3,11 +3,13 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-!/EscapeReality/Assets/Scenes
-!/EscapeReality/Assets/Scripts
-/EscapeReality/Assets*
 
-/EscapeReality/Temp/*
+/EscapeReality/Assets/**
+/EscapeReality/Temp/**
+!/EscapeReality/Assets/Scenes
+!/EscapeReality/Assets/Scenes/**
+!/EscapeReality/Assets/Scripts
+!/EscapeReality/Assets/Scripts/**
 
 # Visual Studio 2015 cache directory
 /.vs/
