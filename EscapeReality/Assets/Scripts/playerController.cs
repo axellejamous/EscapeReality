@@ -6,8 +6,7 @@ public class playerController : MonoBehaviour {
 
 	
 	// Update is called once per frame
-	void Update ()
-    {
+	void Update () {
         var x = Input.GetAxis("Horizontal") * Time.deltaTime * 150.0f;
         var z = Input.GetAxis("Vertical") * Time.deltaTime * 3.0f;
 
