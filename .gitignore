@@ -4,12 +4,12 @@
 /[Bb]uild/
 /[Bb]uilds/
 
-/EscapeReality/Assets/**
-/EscapeReality/Temp/**
-!/EscapeReality/Assets/Scenes
-!/EscapeReality/Assets/Scenes/**
-!/EscapeReality/Assets/Scripts
-!/EscapeReality/Assets/Scripts/**
+/UnityProject/Assets/**
+/UnityProject/Temp/**
+!/UnityProject/Assets/Scenes
+!/UnityProject/Assets/Scenes/**
+!/UnityProject/Assets/Scripts
+!/UnityProject/Assets/Scripts/**
 
 # Visual Studio 2015 cache directory
 /.vs/
